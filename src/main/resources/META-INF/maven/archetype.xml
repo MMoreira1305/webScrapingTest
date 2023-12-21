@@ -1,0 +1,15 @@
+<archetype>
+  <id>webScraping1</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <sources>
+    <source>src/main</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
